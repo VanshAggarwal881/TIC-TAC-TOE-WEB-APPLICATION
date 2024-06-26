@@ -1,5 +1,6 @@
 # TIC-TAC-TOE-WEB-APPLICATION
 A TIC TAC TOE GAME USING HTML CSS AND JAVASCRIPT
+# Play : https://vanshaggarwal881.github.io/Prasunet_WD_03/
 # Introduction
 Welcome to the Tic Tac Toe game! This is a simple yet engaging web-based game built using HTML, CSS, and JavaScript. You can play it with a friend or challenge yourself by playing against the computer. This project was designed to improve coding skills and provide a fun experience for users.
 
